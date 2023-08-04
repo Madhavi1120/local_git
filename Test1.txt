@@ -1,1 +1,2 @@
-This file is created to understand the process of using git and its features
+This file is created to understand the process of using git and its features.
+Some changes are made to know the work flow of git.
