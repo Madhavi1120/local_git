@@ -1,2 +1,4 @@
 This file is created to understand the process of using git and its features.
-Some changes are made to know the work flow of git. For knowing commands
+Some changes are made to know the work flow of git.
+Changes are made in Test branch.
+Checking whether it is reflecting only in Test branch or not.
